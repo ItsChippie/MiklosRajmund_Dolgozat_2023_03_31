@@ -27,7 +27,7 @@ body {
   }
    
   input[type="number"] {
-    padding: 7px;
+    padding: 8px;
     width: 100%;
     border: 1px solid #ccc;
     border-radius: 3px;
